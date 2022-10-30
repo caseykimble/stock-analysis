@@ -22,7 +22,7 @@ With my refactored code, I found the rate of return for 12 different stocks and 
 
 ## Summary
 
-# Advantages and Disadvantages of Refactoring
+### Advantages and Disadvantages of Refactoring
 
 Refactoring the code was more advantage than disadvantage as the refactored code is easier to use on a wider variety of data, in this case multiple tables and tickers. It does run faster as well but we are talking about the difference between 0.25 seconds (original script) and 0.05 seconds (refactored script) for this particular instance. The takeaway here is that the refactored code runs slightly more efficiently, and part of that is due to the way it is written. The only disadvantages I can really see is that creating variables for all the tickers used can be a bit time consuming, and more arrays and variables have the potential to create more errors.
 
